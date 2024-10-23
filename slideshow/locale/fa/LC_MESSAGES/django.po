@@ -48,11 +48,11 @@ msgstr "مقالات"
 
 #: .\slideshow\models.py:31
 msgid "Slide Shows"
-msgstr "اصلایدشوها"
+msgstr "اسلایدشوها"
 
 #: .\slideshow\templates\SlideShow\home.html:16
 msgid "Django"
-msgstr "جنگو"
+msgstr "جنگوپروژه"
 
 #: .\slideshow\templates\SlideShow\home.html:58
 msgid "django"
