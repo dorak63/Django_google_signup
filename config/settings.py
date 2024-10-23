@@ -114,7 +114,13 @@ LANGUAGE = [
     ('fa', 'Persion'),
     ('en', 'English')
 ]
+LANGUAGES = [
+    ('en', 'English'),
+    ('fa', 'Farsi'),
+]
 
+LANGUAGE_CODE = 'en'
+LANGUAGE_CODE = 'fa'
 TIME_ZONE = 'UTC'
 
 USE_I18N = True
